@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Teravin Film</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="slide_1_title">Teravin Film</string>
+    <string name="slide_desc">Provides you the Incredible Films</string>
+</resources>
